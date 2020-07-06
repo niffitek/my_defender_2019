@@ -1,0 +1,19 @@
+Defender game created with CSFML.
+
+USAGE
+
+./my_defender
+
+OPTIONS
+
+     Defend the Castle of Naboo by
+     building Towers on empty places!
+     You gain money for defeat enemys.
+     If your lives reach 0 you loose
+     Tower 1 & 2 will just damage your enemys
+     while 3 & 4 will also slow them.
+     Try it out!
+
+USER INTERACTIONS
+
+Left Mousebutton for everything
